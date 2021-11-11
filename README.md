@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to Cook
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -30,7 +31,8 @@
 [![Abhi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ag513&theme=xcode)](https://git.io/ag513)
 
 
-
+<br />
+<br />
 
 [![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag513&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,9 +45,6 @@
 <br />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513&hide=css) 
-
-[![Abhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ag513)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <br />
