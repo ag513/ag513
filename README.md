@@ -42,7 +42,7 @@
 <br />
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513?hide=css)
 
 <br />
 <br />
