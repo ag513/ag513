@@ -51,5 +51,5 @@
 <br />
 
 
-### Snake eating my contribution
+### Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/ag513/ag513/blob/output/github-contribution-grid-snake.gif)
