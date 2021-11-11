@@ -34,17 +34,10 @@
 <br />
 <br />
 
-[![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag513&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| [![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag513&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br /> ![Abhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ag513) |
+| --- | --- |
 
-<br />
-<br />
-
-![Abhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ag513)
-
-<br />
-<br />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513&hide=css) 
+|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513&hide=css) |
 
 
 <br />
