@@ -3,7 +3,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything �
 - 🥅 2021 Goals: Master the WEB
 - ⚡ Fun fact: I love to Cook
 
