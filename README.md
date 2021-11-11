@@ -27,6 +27,10 @@
 <br />
 
 
+[![Abhi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ag513&theme=xcode)](https://git.io/ag513)
+
+
+
 
 [![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag513&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +47,6 @@
 <br />
 <br />
 
-[![Abhi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ag513&theme=xcode)](https://git.io/ag513)
 
 ### Snake eating my contribution
 ![snake gif](https://github.com/ag513/ag513/blob/output/github-contribution-grid-snake.gif)
