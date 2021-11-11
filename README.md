@@ -42,7 +42,10 @@
 <br />
 <br />
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513&hide=css) | [![Abhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ag513)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag513&hide=css) 
+
+[![Abhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ag513)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br />
