@@ -1,10 +1,10 @@
-### Hi there, I'm Abhinav - aka [Abhi/ag513] 👋 
+### Hi there, I'm Abhinav - aka Abhi 👋 
 
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything �
-- 🥅 2022 Goals: Master the WEB
+- 🌱 I’m currently learning WEB �
+- 🥅 2022-23 Goals: Master the WEB
 - ⚡ Fun fact: I love to Cook
 
 <br />
