@@ -3,9 +3,6 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning WEB �
-- 🥅 2022-23 Goals: Master the WEB
-- ⚡ Fun fact: I love to Cook
 
 <br />
 <br />
